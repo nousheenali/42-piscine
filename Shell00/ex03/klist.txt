@@ -1,0 +1,5 @@
+Credentials cache: API:A41ABD78-35DD-4F8E-AF2F-31F65ECC52A9
+        Principal: nali@42ABUDHABI.AE
+
+  Issued                Expires               Principal
+May 19 10:56:20 2021  May 19 20:56:14 2021  krbtgt/42ABUDHABI.AE@42ABUDHABI.AE
